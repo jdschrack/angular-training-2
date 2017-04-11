@@ -4,4 +4,4 @@ export * from './events-list-resolver.service';
 export * from './events-list.component';
 export * from './event-details/index';
 export * from './shared/index';
-export * from '../events-app.component'
+export * from '../events-app.component';
